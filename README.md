@@ -10,6 +10,13 @@ CapacitorJs is not the fastest framework out there, it is way better than Cordov
 
 https://krausest.github.io/js-framework-benchmark/2021/table_chrome_91.0.4472.77.html
 
+### ⚠️ Warning
+Before running any platform, you need to add its module. You can do that by using the following commands:
+
+- Electron: ```npx cap add @capacitor-community/electron```
+- Android: ```npx cap add android```
+- iOS: ```npx cap add ios```
+
 ### 🪄 Scripts
 
 #### Web Development
